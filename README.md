@@ -5,9 +5,10 @@ Estuve revisando los diferentes conceptos al mismo tiempo que desarrollaba lo qu
 
 ---
 
+<!--
 ## Liga de GIT:
 > https://github.com/V1lch1s/Tarea-1.git
-
+-->
 
 ## ⚠️ AVISO
 La versión actual de este repositorio es la segunda (fuera de la fecha de entrega, pero corregida).

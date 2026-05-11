@@ -10,8 +10,11 @@ Estuve revisando los diferentes conceptos al mismo tiempo que desarrollaba lo qu
 
 
 ## ⚠️ AVISO
-La versión actual de este repositorio es la segunda (fuera de la fecha de entrega, pero corregida). Para ver la versión original, ver el historial de versiones:
+La versión actual de este repositorio es la segunda (fuera de la fecha de entrega, pero corregida).
+<!-- Para ver la versión original, ver el historial de versiones:
 
 <div>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-cover-l%2Cf_auto%2Fp%2Fe0d95b6e-fb3d-495d-9d68-235b77f4bda0%2F2493576789%2Fgithub-file-history-by-commits-view-file-screenshot.png&f=1&nofb=1&ipt=b666aefbe6e2eb7410e0020c188d9910abd7d72925b4c26cc8ff82d4ff3c707a" alt="Git Repo History" width="300"/>
 </div>
+
+-->
